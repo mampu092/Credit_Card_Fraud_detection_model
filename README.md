@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @mampu092
-- 👀 I’m interested in ...python,SQL,C++,JAVA
-- 🌱 I’m currently learning ...SQL
 
 
 <!---
